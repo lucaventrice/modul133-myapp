@@ -10,4 +10,8 @@ class PagesController < ApplicationController
 
   def formulare
   end
+
+  def success
+
+  end
 end
